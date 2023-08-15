@@ -5,10 +5,10 @@ gantt
     excludes    weekends saturday,sunday
     
     section 문서화
-    제안서 작성     :done,    a, 2023-08-15, 1d
-    구성도 작성     :active,  b, 2023-08-16, 1d
-    설치 메뉴얼     :c, after b, 4d
-    시연 PPT        :after c, 2d
+    제안서 작성     :done,    a, 2023-08-15, 2d
+    구성도 작성     :active,  b, 2023-08-17, 2d
+    설치 메뉴얼     :c, after b, 6d
+    시연 PPT        :after c, 4d
 
     section 구현
     
