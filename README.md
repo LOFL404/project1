@@ -1,6 +1,6 @@
 ```mermaid
 gantt
-    dateFormat  YYYY-MM-DD
+    
     
     title       프로젝트 일정표
     excludes    weekends saturday,sunday
