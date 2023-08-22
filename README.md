@@ -12,8 +12,9 @@ gantt
     시연 PPT        :after c, 1d
 
     section 구현
-    도커            :done,    d, 2023-08-18, 1d
-    jenkins         :done,    e, 2023-08-21, 1d
-    argo cd         :done,    f, 2023-08-22, 1d 
+    http            :done,        d, 2023-08-18, 1d
+    도커            :done,    e, 2023-08-19, 1d
+    jenkins         :done,    f, 2023-08-21, 2d
+     
     
 ```
