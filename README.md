@@ -14,8 +14,8 @@ gantt
     section 구현
     http(100%)           :done,    d, 2023-08-18, 1d
     도커(50%)            :done,    e, 2023-08-19, 1d
-    sonarqube(50%)       :done,    f, 2023-08-20, 1d
-    jenkins(20%)         :done,    g, 2023-08-21, 2d
+    쿠버네티스(50%)       :done,    f, 2023-08-20, 1d
+    젠킨스(20%)         :done,    g, 2023-08-21, 2d
      
     
 ```
