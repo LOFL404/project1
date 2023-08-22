@@ -12,9 +12,10 @@ gantt
     시연 PPT        :after c, 1d
 
     section 구현
-    http            :done,        d, 2023-08-18, 1d
+    http            :done,    d, 2023-08-18, 1d
     도커            :done,    e, 2023-08-19, 1d
-    jenkins         :done,    f, 2023-08-21, 2d
+    sonarqube       :done,    f, 2023-08-20, 1d
+    jenkins         :done,    g, 2023-08-21, 2d
      
     
 ```
